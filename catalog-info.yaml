@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: engine-handler-8854
+  namespace: MendPerformance
+  annotations:
+    github.com/project-slug: MendPerformance/engine-handler-8854
+spec:
+  type: service
+  lifecycle: unknown
+  owner: mend.io
